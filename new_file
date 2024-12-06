@@ -4,4 +4,5 @@ int main(void){
     printf("test_2");
     printf("test_4");
     printf("test_5");
+    printf("test_6");
 }
