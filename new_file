@@ -5,4 +5,5 @@ int main(void){
     printf("test_4");
     printf("test_5");
     printf("test_6");
+    printf("vetka 2");
 }
