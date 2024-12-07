@@ -7,4 +7,5 @@ int main(void){
     printf("test_6");
     printf("vetka 2");
     printf("vetka 1");
+    printf("vetka 3");
 }
